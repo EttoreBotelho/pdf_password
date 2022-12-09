@@ -5,7 +5,6 @@ __pycache__/
 *.xlsx
 *.pdf
 
-
 # C extensions
 *.so
 
